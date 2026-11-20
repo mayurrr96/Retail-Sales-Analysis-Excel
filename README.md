@@ -38,7 +38,6 @@ This project focuses on analyzing retail sales data using Microsoft Excel to und
 
 ## 📁 Project Files
 - `Retail_Sales_Analysis.xlsx` – Excel workbook containing the analysis and dashboard.
-- `Dashboard.png` – Dashboard screenshot (if included).
 
 ## 👨‍💻 Author
 **Mayur Parmar**
